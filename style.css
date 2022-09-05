@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color:#F8FAFE;
+    --secondary-color:#8A2D5E;
+    --terciary-color:#000000
+}
+
+body{
+    height: 100vh;
+    background-color: var(--primary-color);
+}
+
+header{
+    display: flex;
+    width:1800px;
+    height: 64px;
+    margin-top: 31px;
+    margin-left: 36px;
+    left: 36px;
+}
+.logo{
+    width: 268px;
+    height: 59.9px;
+    left: 0px;
+    top: 0px;
+}
+
+.l1{
+    margin-left: 400px;
+}
+.l2{
+    margin-left: 70px;
+}
+.l3{
+    margin-left: 70px;
+}
+.l4{
+    margin-left: 70px;
+}
+.l6{
+    margin-left: 500px;
+}
+.l7{
+    margin-left: 10px;
+}
+
+.lista{
+    display: flex;
+    list-style: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+main{
+    position: absolute;
+    left: 300px;
+    top: 230px;
+}
+.iron{
+    position: absolute;
+    width: 316px;
+    height: px;
+    left: 800px;
+    top: -150px; 
+}
+.t1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+}
+.t2{
+    font-family: 'Gill Sans MT';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 93px;
+    color: var(--secondary-color);
+}
+.t3{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 31px;
+}
+.t4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15.71px;
+    line-height: 194.5%;
+    width: 430px;
+    height: 152px;
+}
+.botao{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    position: absolute;
+    width: 362px;
+    height: 57px;
+    left: 0px;
+    top: 400px;
+    background:#383838 ;
+}
