@@ -20,7 +20,7 @@ header{
    height: 59.9px;
    top: 25px;
    left: 36px;
-   width: 1260px;
+   width: 1850px;
    justify-content: center;
    align-items: center;
 }
@@ -41,8 +41,9 @@ header{
    font-family: 'Poppins';
    font-style: normal;
    font-weight: 400;
-   font-size: 18px;
+   font-size: 20px ;
    line-height: 27px;
+   list-style: none;
 }
 
 .lista2{
@@ -51,38 +52,69 @@ header{
     width: 134px;
     height: 27px;
     top: 0;
-    left: 600px;
+    left: 1193px;
 }
 
+.l1{
+    margin-left: 250px;
+}
+.l2{
+    margin-left: 35px;
+}
+.l3{
+    margin-left: 35px;
+}
+.l4{
+    margin-left: 35px;
+}
 .l5{
-
+    margin-left: 15px;
 }
 .l6{
-  
+    margin-top: 6px;
+    margin-left: -4px;
 }
 .l7{
-    
+    margin-left: 25px;
 }
 .l8{
-
+    margin-left: 25.92px;
 }
 
 main{
+    display: flex;
     position: absolute;
-    left: 100px;
+    left: 200px;
     top: 150px;
+   
 }
 .iron{
-    
-    
+    position: absolute;
+    display: flex;
+    width: 316px;
+    height: 805.24px;
+    left: -150px;
+    margin-top: -50px;
+    margin-left: 950px;
 }
+
 .t1{
+    position: absolute;
+    width: 200px;
+    height: 23.56px;
+    left: 7px;
+    top: 0px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
 }
 .t2{
+    position: absolute;
+    width: 500px;
+    height: 93px;
+    left: 0px;
+    top: 14px;
     font-family: 'Gill Sans MT';
     font-style: normal;
     font-weight: 700;
@@ -91,6 +123,11 @@ main{
     color: var(--secondary-color);
 }
 .t3{
+    position: absolute;
+    width: 122px;
+    height: 32px;
+    left: 0px;
+    top: 139px;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 600;
@@ -98,6 +135,11 @@ main{
     line-height: 31px;
 }
 .t4{
+    position: absolute;
+    width: 430px;
+    height: 152px;
+    left: 0px;
+    top: 172px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -118,4 +160,47 @@ main{
     left: 0px;
     top: 350px;
     background:#383838 ;
+    font-family: 'Poppins';
+    font-style: normal;
+    color: #FFFFFF;
+}
+.icones{
+    list-style: none;
+    position: absolute;
+    width: 50px;
+    height: 208px;
+    left: -100px;
+    top: 530px;
+}
+.next{
+    position: absolute;
+    width: 271px;
+    height: 31px;
+    left: 1300px;
+    top: 700px;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 31px;  
+    color: #383838;
+}
+.seta{
+    position: absolute;
+    top: 7px;
+}
+.tlateral{
+    position: absolute;
+width: 817px;
+height: 183px;
+left: 1180px;
+top: 150px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 140px;
+line-height: 210px;
+letter-spacing: 0.06em;
+color: rgba(138, 45, 94, 0.5);
+transform: rotate(-90deg)
 }
