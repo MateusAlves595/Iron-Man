@@ -44,6 +44,13 @@ header{
    font-size: 20px ;
    line-height: 27px;
    list-style: none;
+   
+   
+}
+.linha{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: -410px;
 }
 
 .lista2{
@@ -57,28 +64,40 @@ header{
 
 .l1{
     margin-left: 250px;
+    text-decoration: none;
+    color: black;
 }
 .l2{
     margin-left: 35px;
+    text-decoration: none;
+    color: black;
 }
 .l3{
     margin-left: 35px;
+    text-decoration: none;
+    color: black;
 }
 .l4{
     margin-left: 35px;
+    text-decoration: none;
+    color: black;
 }
 .l5{
     margin-left: 15px;
+    text-decoration: none;
 }
 .l6{
     margin-top: 6px;
     margin-left: -4px;
+    text-decoration: none;
 }
 .l7{
     margin-left: 25px;
+    text-decoration: none;
 }
 .l8{
     margin-left: 25.92px;
+    text-decoration: none;
 }
 
 main{
@@ -163,6 +182,7 @@ main{
     font-family: 'Poppins';
     font-style: normal;
     color: #FFFFFF;
+    text-decoration: none;
 }
 .icones{
     list-style: none;
@@ -184,6 +204,7 @@ main{
     font-size: 23px;
     line-height: 31px;  
     color: #383838;
+    text-decoration: none;
 }
 .seta{
     position: absolute;
@@ -191,10 +212,11 @@ main{
 }
 .tlateral{
     position: absolute;
-width: 817px;
+width: 717px;
 height: 183px;
 left: 1180px;
-top: 150px;
+margin-top: 200px;
+margin-left: 60px;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 700;
