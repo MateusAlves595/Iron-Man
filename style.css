@@ -210,19 +210,19 @@ main{
     position: absolute;
     top: 7px;
 }
-.tlateral{
+.texto__lateral{
     position: absolute;
-width: 717px;
-height: 183px;
-left: 1180px;
-margin-top: 200px;
-margin-left: 60px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 140px;
-line-height: 210px;
-letter-spacing: 0.06em;
-color: rgba(138, 45, 94, 0.5);
-transform: rotate(-90deg)
+    width: 717px;
+    height: 183px;
+    left: 1180px;
+    margin-top: 200px;
+    margin-left: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 140px;
+    line-height: 210px;
+    letter-spacing: 0.06em;
+    color: rgba(138, 45, 94, 0.5);
+    transform: rotate(-90deg)
 }
