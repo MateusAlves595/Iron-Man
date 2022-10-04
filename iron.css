@@ -128,17 +128,7 @@ main{
     font-weight: 400;
     font-size: 15px;
 }
-.t1ca{
-    position: absolute;
-    width: 200px;
-    height: 23.56px;
-    left: 7px;
-    top: 0px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-}
+
 .t2{
     position: absolute;
     width: 500px;
@@ -282,32 +272,18 @@ main{
     position: absolute;
     width: 750px;
     height: 100px;
-    left: 1180px;
-    margin-top: 250px;
+    left: 1155px;
+    top: 230px;
     margin-left: 80px;
+    justify-content: center;
+    align-items: center;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
-    font-size: 79px;
+    font-size: 139px;
     line-height: 118px;
     letter-spacing: 0.06em;
-    color: #E8EEF9;
+    color: #8A2D5E80;
     transform: rotate(-90deg)
 }
 
-.texto__lateral.capitao{
-    position: absolute;
-    width: 750px;
-    height: 100px;
-    left: 1180px;
-    margin-top: 250px;
-    margin-left: 80px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 79px;
-    line-height: 118px;
-    letter-spacing: 0.06em;
-    color: #E8EEF9;
-    transform: rotate(-90deg)
-}
