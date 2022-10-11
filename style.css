@@ -51,6 +51,7 @@ header{
     position: absolute;
     margin-top: 25px;
     margin-left: -410px;
+    color: #C4C4C4;
 }
 
 .lista2{
@@ -117,17 +118,7 @@ main{
     margin-left: 850px;
 }
 
-.t1{
-    position: absolute;
-    width: 200px;
-    height: 23.56px;
-    left: 7px;
-    top: 0px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-}
+
 .t1ca{
     position: absolute;
     width: 200px;
@@ -139,20 +130,7 @@ main{
     font-weight: 400;
     font-size: 15px;
 }
-.t2{
-    position: absolute;
-    width: 500px;
-    height: 93px;
-    left: 0px;
-    top: 14px;
-    font-family: 'Gill Sans MT';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 80px;
-    line-height: 93px;
-    color: #1C1F27;
 
-}
 .t2ca{
     position: absolute;
     width: 500px;
@@ -164,20 +142,9 @@ main{
     font-weight: 700;
     font-size: 80px;
     line-height: 93px;
-    color: var(--secondary-color);
+    color: #1C1F27;
 }
-.t3{
-    position: absolute;
-    width: 144px;
-    height: 32px;
-    left: 0px;
-    top: 215px;
-    font-family: 'Nunito';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 23px;
-    line-height: 31px;
-}
+
 .t3ca{
     position: absolute;
     width: 144px;
@@ -190,20 +157,7 @@ main{
     font-size: 23px;
     line-height: 31px;
 }
-.t4{
-    position: absolute;
-    width: 430px;
-    height: 152px;
-    left: 0px;
-    top: 250px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15.71px;
-    line-height: 194.5%;
-    width: 430px;
-    height: 152px;
-}
+
 .t4ca{
     position: absolute;
     width: 430px;
@@ -218,23 +172,7 @@ main{
     width: 430px;
     height: 152px;
 }
-.botao{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    position: absolute;
-    width: 362px;
-    height: 57px;
-    left: 0px;
-    top: 430px;
-    background:#383838 ;
-    font-family: 'Poppins';
-    font-style: normal;
-    color: #FFFFFF;
-    text-decoration: none;
-}
+
 .botaoca{
     display: flex;
     flex-direction: row;
@@ -278,30 +216,14 @@ main{
     position: absolute;
     top: 7px;
 }
-.texto__lateral{
-    position: absolute;
-    width: 750px;
-    height: 100px;
-    left: 1180px;
-    margin-top: 250px;
-    margin-left: 80px;
-    font-family: 'Poppins';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 79px;
-    line-height: 118px;
-    letter-spacing: 0.06em;
-    color: #E8EEF9;
-    transform: rotate(-90deg)
-}
 
-.texto__lateral.capitao{
+
+.texto__lateral_capitao{
     position: absolute;
-    width: 750px;
+    width: 990px;
     height: 100px;
-    left: 1180px;
-    margin-top: 250px;
-    margin-left: 80px;
+    left: 1155px;
+    top: 150px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
@@ -309,5 +231,5 @@ main{
     line-height: 118px;
     letter-spacing: 0.06em;
     color: #E8EEF9;
-    transform: rotate(-90deg)
+    transform: rotate(-90deg);
 }

@@ -131,7 +131,7 @@ main{
 
 .t2{
     position: absolute;
-    width: 500px;
+    width: 441px;
     height: 93px;
     left: 0px;
     top: 14px;
@@ -140,7 +140,7 @@ main{
     font-weight: 700;
     font-size: 80px;
     line-height: 93px;
-    color: #1C1F27;
+    color: #8A2D5E;
 
 }
 .t2ca{
@@ -161,7 +161,7 @@ main{
     width: 144px;
     height: 32px;
     left: 0px;
-    top: 215px;
+    top: 135px;
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 600;
@@ -185,7 +185,7 @@ main{
     width: 430px;
     height: 152px;
     left: 0px;
-    top: 250px;
+    top: 170px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
@@ -218,7 +218,7 @@ main{
     width: 362px;
     height: 57px;
     left: 0px;
-    top: 430px;
+    top: 400px;
     background:#383838 ;
     font-family: 'Poppins';
     font-style: normal;
